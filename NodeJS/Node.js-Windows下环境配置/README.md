@@ -1,10 +1,8 @@
----
-title: Node.js之Windows下环境配置
----
+# Node.js 之 Windows 下环境配置
 
 <p align="center">
-  <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer">
-    <img width="100" src="./photo-how-to-install-npm-and-node-in-windows.png" alt="Vue logo"/>
+  <a href="void(0)" target="_blank" rel="noopener noreferrer">
+    <img width="282" src="./photo-how-to-install-npm-and-node-in-windows.png" alt="Vue logo"/>
   </a>
 </p>
 
