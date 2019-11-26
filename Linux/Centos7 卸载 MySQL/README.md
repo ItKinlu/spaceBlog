@@ -10,7 +10,9 @@ yum list installed mysql*
 
 > 如下图所示 即为安装
 
-<img src="./images/yum-list-installed-mysql.png"/>
+<p style="text-align:center;">
+  <img src="./images/yum-list-installed-mysql.png"/>
+</p>
 
 - yum 卸载
 
@@ -32,8 +34,9 @@ rpm -qa | grep -i mysql
 
 > 如下图所示
 
-<img src="./images/rpm-qa-grep-i-mysql.png"/>
-
+<p style="text-align:center;">
+  <img src="./images/rpm-qa-grep-i-mysql.png"/>
+</p>
 - 卸载
 
 ```bash
