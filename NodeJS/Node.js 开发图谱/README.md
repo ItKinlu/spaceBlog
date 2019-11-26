@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node1.png" />
+    <img src="./images/Node1.png" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node2.png" />
+    <img src="./images/Node2.png" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node3.png" />
+    <img src="./images/Node3.png" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node4.png" />
+    <img src="./images/Node4.png" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node5.png" />
+    <img src="./images/Node5.png" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node6.png" />
+    <img src="./images/Node6.png" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node7.png" />
+    <img src="./images/Node7.png" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node8.png" />
+    <img src="./images/Node8.png" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node9.png" />
+    <img src="./images/Node9.png" />
   </a>
 </p>
 
@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node10.png" />
+    <img src="./images/Node10.png" />
   </a>
 </p>
 
@@ -84,6 +84,6 @@
 
 <p align="center">
   <a href="void(0)" target="_blank">
-    <img src="./Node11.png" />
+    <img src="./images/Node11.png" />
   </a>
 </p>
